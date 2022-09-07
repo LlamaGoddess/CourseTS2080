@@ -8,11 +8,11 @@ Objects, Classes, Encapsulationn, abstraction, Inheritence, and Polymorphism.
 
 ## What are the main principles of OOP?
 
-
+Encapsulationn, abstraction, Inheritence, and Polymorphism. ##honestly I have no clue what differentiates the 2. question from the 3. I'm answering with the main pillars
 
 ## Encapsulation
 
-Encapsulation is... wip
+Encapsulation is bundling multiple peices of data and methods into one object
 
 ## Abstraction
 
